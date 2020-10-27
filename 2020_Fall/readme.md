@@ -93,7 +93,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Parmar, Soniya soniyaparmar08 🚀 🌔 
 
-- [ ] Pezzoni, Santiago
+- [X] Pezzoni, Santiago (@santip21) 👍 
 
 - [X] Pomerantz, Win (@winpom) 🙃
 
